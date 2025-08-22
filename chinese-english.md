@@ -16,3 +16,6 @@ GPT4:
 ```
 Clothing needs to be adapted to weather changes. In summer, wear as much clothing as you can; in winter, wear as much clothing as you can.
 ```
+
+DeepSeek v3.1
+Dressing should adapt to the changes in weather. In summer, you wear as little as possible, while in winter, you wear as much as possible.
